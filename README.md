@@ -1,1 +1,1 @@
-# Personal projects and investigation
+# Personal projects
