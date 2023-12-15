@@ -1,3 +1,3 @@
 # Transformers (old version)
 
-**Old repository**
+**Old repository** - new version in 'Transformer_Implementation' repo
